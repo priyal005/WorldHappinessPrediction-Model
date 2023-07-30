@@ -3,16 +3,22 @@ Objective: The objective of this project is to perform regression analysis on th
 
 Dataset: The dataset used for this project is the World Happiness dataset available on Kaggle. It contains information about various factors and indicators of happiness across different countries. The dataset includes variables such as GDP per capita, social support, life expectancy, freedom, generosity, perceptions of corruption, and the happiness score.
 #TASKS AND KEY FINDINGS:
+
 Distribution of Happiness Scores:
 
-Analyze the distribution of happiness scores in the dataset. Understand how the happiness scores vary across different countries. 
+Analyze the distribution of happiness scores in the dataset. Understand how the happiness scores vary across different countries.
+
 Correlation Analysis:
 
 Calculate correlation coefficients between the happiness score and key variables (e.g., GDP per capita, social support, life expectancy, freedom, generosity, perceptions of corruption). Identify the factors that are most strongly correlated with the happiness score. Outlier Detection:
 
-Identify outliers in variables like GDP per capita or healthy life expectancy. Discuss the potential impact of these extreme values on the analysis and model performance. Visualization of Social Support and Happiness Score:
+Identify outliers in variables like GDP per capita or healthy life expectancy. Discuss the potential impact of these extreme values on the analysis and model performance. 
 
-Create a scatter plot to visualize the relationship between social support and the happiness score. Determine if the relationship appears to be positive or negative. Average Level of Freedom:
+Visualization of Social Support and Happiness Score:
+
+Create a scatter plot to visualize the relationship between social support and the happiness score. Determine if the relationship appears to be positive or negative.
+
+Average Level of Freedom:
 
 Calculate the mean freedom score across different countries. Identify countries with high and low levels of freedom based on the mean freedom score. The columns of interest are:
 
