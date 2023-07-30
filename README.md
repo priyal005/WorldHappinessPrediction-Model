@@ -2,7 +2,7 @@
 Objective: The objective of this project is to perform regression analysis on the World Happiness dataset to explore the factors influencing happiness scores across different countries. The goal is to build a predictive model that identifies significant predictors and quantifies their impact on the happiness score.
 
 Dataset: The dataset used for this project is the World Happiness dataset available on Kaggle. It contains information about various factors and indicators of happiness across different countries. The dataset includes variables such as GDP per capita, social support, life expectancy, freedom, generosity, perceptions of corruption, and the happiness score.
-#TASKS AND KEY FINDINGS:
+# TASKS AND KEY FINDINGS:
 
 Distribution of Happiness Scores:
 
