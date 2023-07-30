@@ -36,7 +36,7 @@ Generosity is the residual of regressing the national average of GWP responses t
 
 Perceptions of corruption are the average of binary answers to two GWP questions: “Is corruption widespread throughout the government or not?” and “Is corruption widespread within businesses or not?” Where data for government corruption are missing, the perception of business corruption is used as the overall corruption-perception measure.
 
-Conclusion:
+# Conclusion:
 
 This project focuses on analyzing and predicting happiness scores based on various factors. Through descriptive analysis, correlation calculations, outlier detection, and visualization, we gain insights into the distribution of happiness scores, influential factors, outliers, and relationships between variables. The analysis contributes to understanding the complex dynamics of happiness and provides a foundation for developing a predictive model for happiness prediction.Objective: The objective of this project is to perform regression analysis on the World Happiness dataset to explore the factors influencing happiness scores across different countries. The goal is to build a predictive model that identifies significant predictors and quantifies their impact on the happiness score.
 
